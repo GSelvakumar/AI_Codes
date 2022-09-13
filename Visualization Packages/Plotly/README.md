@@ -1,0 +1,2 @@
+- Contains Basic Plotly charts
+- Customization of plotly graph objects
